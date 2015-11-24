@@ -1,3 +1,1 @@
-# Introduction
-
-Can Free software Break Bricks?
+# Can Free software Break Bricks?
